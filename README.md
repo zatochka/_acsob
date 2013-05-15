@@ -1,7 +1,7 @@
-_acsob
+_acosb
 ======
 
-ACSoB (Automatic Calculation of Sports Betting) #NBA Basketball
+ACoSB (Automatic Calculation of Sports Betting) #NBA Basketball
 
 // Two commands, four times (12 minutes) + overtime to win without draw.
 The common score total are additional of score for four times and overtime.
